@@ -1,6 +1,8 @@
 # the-drive
+....as in the car drive.
 
-A blender animation and collaboration exercise.
+A blender animation and teamwork exercise.
 
+This project will focus on:
 Organizing blend files for teamwork.
-Learn to use github.
+Learning to use github.
